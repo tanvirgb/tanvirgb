@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [Will be updated](Will be updated)
 
-- 💬 Ask me about **HTML, CSS and Bootstrap**
+- 💬 Ask me about **HTML, CSS, and Bootstrap**
 
 - 📫 How to reach me **tspramanik123@gmail.com**
 
