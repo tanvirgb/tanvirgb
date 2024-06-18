@@ -1,3 +1,5 @@
+![Black and  White Gradient Personal LinkedIn Banner](https://github.com/tanvirgb/tanvirgb/assets/155874294/5bbf52ae-d20f-4fc6-88c3-0e40e03e3c17)
+
 <h1 align="center">Hi 👋, I'm Md. Tanvir Siddique Pramanik</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
