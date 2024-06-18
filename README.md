@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirgb" alt="tanvirgb" /></a> </p>
 
-- 🔭 I’m currently working on [Will be updated](Will be updated)
+- 🔭 I’m currently working on [Will be updated]()
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on [Will be updated](Will be updated)
+- 👯 I’m looking to collaborate on [Will be updated]()
 
-- 🤝 I’m looking for help with [Will be updated](Will be updated)
+- 🤝 I’m looking for help with [Will be updated]()
 
-- 👨‍💻 All of my projects are available at [https://tanvirgb.github.io/Capstone-Project-2-Personal-Site/](https://tanvirgb.github.io/Capstone-Project-2-Personal-Site/)
+- 👨‍💻 All of my projects are available at [My Website](https://tanvirgb.github.io/Capstone-Project-2-Personal-Site/)
 
-- 📝 I regularly write articles on [Will be updated](Will be updated)
+- 📝 I regularly write articles on [Will be updated]()
 
 - 💬 Ask me about **HTML, CSS, and Bootstrap**
 
 - 📫 How to reach me **tspramanik123@gmail.com**
 
-- 📄 Know about my experiences [Will be updated](Will be updated)
+- 📄 Know about my experiences [Will be updated]()
 
 - ⚡ Fun fact **I can code all day long!**
 
