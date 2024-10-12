@@ -1,7 +1,7 @@
-![Black and  White Gradient Personal LinkedIn Banner](https://github.com/tanvirgb/tanvirgb/assets/155874294/5bbf52ae-d20f-4fc6-88c3-0e40e03e3c17)
+![banner-gif](https://github.com/user-attachments/assets/fdbea014-f14c-4d59-a2d0-e11f5d178dfb)
 
 <h1 align="center">Hi 👋, I'm Md. Tanvir Siddique Pramanik</h1>
-<h3 align="center">A passionate full stack web developer from Bangladesh</h3>
+<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirgb&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirgb" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Will be updated]
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 👯 I’m looking to collaborate on [Will be updated]
 
@@ -40,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirgb&show_icons=true&locale=en" alt="tanvirgb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirgb&" alt="tanvirgb" /></p>
-
