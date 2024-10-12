@@ -1,7 +1,7 @@
 ![banner-gif](https://github.com/user-attachments/assets/fdbea014-f14c-4d59-a2d0-e11f5d178dfb)
 
 <h1 align="center">Hi 👋, I'm Md. Tanvir Siddique Pramanik</h1>
-<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
+<h3 align="center">A passionate full-stack web developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirgb&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirgb" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Will be updated]
 
-- 👨‍💻 All of my projects are available at [My Website](https://tanvirgb.github.io/Capstone-Project-2-Personal-Site/)
+- 👨‍💻 All of my projects are available at [Will be updated]
 
 - 📝 I regularly write articles on [Will be updated]
 
