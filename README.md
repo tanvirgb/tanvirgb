@@ -1,4 +1,4 @@
-![banner-gif](https://github.com/user-attachments/assets/fdbea014-f14c-4d59-a2d0-e11f5d178dfb)
+![banner-image](https://github.com/user-attachments/assets/49dcbb6e-a25a-4286-9883-6cc269124959)
 
 <h1 align="center">Hi 👋, I'm Md. Tanvir Siddique Pramanik</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh.</h3>
